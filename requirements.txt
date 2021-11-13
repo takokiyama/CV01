@@ -1,6 +1,8 @@
 flask
 requests
 azure.identity
+azure.cognitiveservices.vision.computervision
+msrest.authentication
 azure.keyvault.secrets
 azure.storage.queue
 streamlit
